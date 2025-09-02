@@ -46,7 +46,3 @@ Además, los tweets están relacionados con **eventos específicos** encontrados
   - `scikit-learn`  
   - `torch` o `tensorflow` (dependiendo de los modelos)  
   - `transformers` (para fine-tuning de BERT/T5)  
-
-Instalación rápida de dependencias:  
-```bash
-pip install -r requirements.txt
